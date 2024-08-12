@@ -2,3 +2,7 @@ table, tr, td{
     border: 1px solid black;
     border-collapse: collapse;
 }
+
+.cidades{
+    background-color: blueviolet;
+}
