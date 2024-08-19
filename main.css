@@ -6,3 +6,10 @@ table, tr, td{
 .cidades{
     background-color: blueviolet;
 }
+.cor{
+    background-color: rgb(25, 0, 255);
+}
+
+.largcoluna{
+    width: 150px;
+}
