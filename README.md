@@ -1,20 +1,49 @@
-# Projeto - Distância capitais
+# Projeto - Distância capitais entre capitais brasileiras
 
-Descrição do projeto - O projeto foi feito com uma grupo que falou sobre a cidades a gente se juntou em 6 pessoas e falamos sobre as distâncias sobre as cidades cada uma que tinha la, as minha foi ARACAJU, BELÉM, BELO HORIZONTE e BOA VISTA, eu gostei muito de fazer esse trabalho em grupo.
+Projeto criado como parte avaliativa da disciplina de desenvolvimento ministrada pelo professor Leonardo Rocha.
 
+## Ínice
 
-## ídice
-
-* 
+* [descrição](#descrição)
+* [tecnologias](#tecnologias)
+* [referências](#projeto---distância-capitais-entre-capitais-brasileiras)
+* [autor(a)](#autora)
 
 ## Descrição
+ O projeto consiste na composição de uma tabela que conta com capitais brasileiras e a distâncias entre essas capatais. As contantes 
+ nesse projeto são:
 
+ * ARACAJÚ
+ * BELÉM 
+ * BELO HORIZONTE
+ * BOA VISTA
+ * BRASILIA
+ * CAMPO GRANDE 
+ * CUÍABA
+
+ 
 
 ## tecnologias
+
+* HTML5
+* REAME
+* GIT
+* GITHUB
 
 
 ## referências
 
+[alura](https://www.alura.com.br/artigos/escrever-bom-readme)-como escrever um README increvel no seu github
+
 
 ## autor(a)
+
+Projeto desenvolvido por:
+
+* brenda 
+* joão
+* flora
+* ana laura
+* sabrina
+* willian
 

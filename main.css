@@ -13,3 +13,7 @@ table, tr, td{
 .largcoluna{
     width: 150px;
 }
+
+#legenda{
+    font-size: 30px;
+}
