@@ -45,7 +45,19 @@ Veja uma imagem de parte do codígo, onde é possivel indentificar o uso dos ele
 
 ![](img/resultado-final.png)
 
- 
+ ### Estilização
+
+O projeito foi estilizado, utiliza CSS3. foi criado um arquivo chamando main css. nesse arquivo,
+constam configurações de estilo apresentadas a seguir:
+
+* Estilo de cores - A cor de fundo utilizada no projeto foi definida como segue:
+
+```
+.cidades{
+    background-color: blueviolet;
+    
+}
+```
 
 ## tecnologias
 
@@ -53,6 +65,7 @@ Veja uma imagem de parte do codígo, onde é possivel indentificar o uso dos ele
 * REAME
 * GIT
 * GITHUB
+
 
 
 ## referências
