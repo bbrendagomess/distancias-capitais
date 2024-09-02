@@ -21,9 +21,29 @@ Projeto criado como parte avaliativa da disciplina de desenvolvimento ministrada
  * CAMPO GRANDE 
  * CUÍABA
 
- ### Resultado do projeto
+### Resultado do projeto
 
- ![Resultado final do projeto]()
+### Tabela
+
+ * table - é um conjunto estruturado de dados composto de linhas e colunas (dados tabulares).
+ * tr - a tag tr cria uma linha dentro de uma tag table e acomoda diversas tags th ou td que criam colunas dentro das linhas, formando uma tabela no documento
+ * td - a tag td cria uma coluna para inserção de conteúdos, junto a diversas outras colunas em uma mesma linha definida pela tag tr
+ 
+Veja uma imagem de parte do codígo, onde é possivel indentificar o uso dos elementos mencionados acima:
+
+* table
+
+![](img/table.png)
+
+* tr
+
+![](img/tr.png)
+
+* td
+
+![](img/td.png)
+
+![](img/resultado-final.png)
 
  
 
